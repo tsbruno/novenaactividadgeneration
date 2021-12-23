@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+}
+
+table, tr, th, td {
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+table{
+    width: 800px;
+    
+    
+   
+}
+
+.y{
+    background-color: darkorange;
+}
+
+.p{
+    background-color: darkorange;
+}
+.o{
+    background-color: black;
+}
+.l{
+    background-color: greenyellow;
+}
+.j{
+    background-color: greenyellow;
+}
+
+.k{
+    background-color: greenyellow;
+}
+.u{
+    text-align: center;
+}

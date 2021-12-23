@@ -1,0 +1,28 @@
+body{
+    background-color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+
+table, tr, th,{
+    border: 1px solid  black;
+    
+    
+}
+
+table{
+    width: 600px;
+    text-align: center;
+    
+   
+}
+
+td{
+    background-color: darksalmon;
+}
+
+th {
+    background-color: dodgerblue;
+}
+
